@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elisa!</h1>
 <h3 align="center">Just a curious student 🤷</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisa-iskandar" alt="elisa-iskandar" /></a> </p>
+<div align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisa-iskandar&title=Commits,Experience,Repositories,Followers,PullRequest" alt="elisa-iskandar" /></a></div>
 
 ### 🔭 I’m currently working on [Tasker App](https://github.com/Elisa-Iskandar/tasker-app)
 
