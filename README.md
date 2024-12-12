@@ -48,3 +48,32 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </div>
+
+# Coding Projects
+## Logic Gate Trace Tables question generator and solver
+
+<p>
+ <img src="https://i.imgur.com/zY2epU4.png" width="250" align="right" hspace="10">
+ This was a capstone project in year 12 built to help A-level students studying computer science revise logic gate trace table questions.
+ 
+ [Link to the repository >>>](https://github.com/Elisa-Iskandar/Logic-Gate-Trace-Tables-question-generator-and-solver/tree/main)
+</p>
+<br>
+
+## Rock Paper Scissors
+<p>
+ <img src="https://i.imgur.com/OUFUpNb.jpeg" width="250" align="right" hspace="10">
+ A JavaScript project built whilst following the Odin Project.
+ 
+ [Link to the repository >>>](https://github.com/Elisa-Iskandar/Rock-Paper-Scissors)
+</p>
+<br>
+
+## Python Challenges 2023-2025
+<p>
+ <img src="https://camo.githubusercontent.com/5ac5f7e31394888e43113bffb5420b63b54132cfe7cd49f33bcab5b5265c67d9/68747470733a2f2f692e696d6775722e636f6d2f3035764a474b332e706e67" width="250" align="right" hspace="10">
+ Python challenges I do from time to time..
+ 
+ [Link to the repository >>>](https://github.com/Elisa-Iskandar/pythonchallenges)
+</p>
+<br>
