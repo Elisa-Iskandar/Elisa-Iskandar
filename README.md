@@ -69,11 +69,20 @@
 </p>
 <br>
 
-## Python Challenges 2023-2025
+## Python Challenges
 <p>
  <img src="https://camo.githubusercontent.com/5ac5f7e31394888e43113bffb5420b63b54132cfe7cd49f33bcab5b5265c67d9/68747470733a2f2f692e696d6775722e636f6d2f3035764a474b332e706e67" width="250" align="right" hspace="10">
  Python challenges I do from time to time..
  
  [Link to the repository >>>](https://github.com/Elisa-Iskandar/pythonchallenges)
+</p>
+<br>
+
+## Tasker App
+<p>
+ <!-- <img src="https://camo.githubusercontent.com/5ac5f7e31394888e43113bffb5420b63b54132cfe7cd49f33bcab5b5265c67d9/68747470733a2f2f692e696d6775722e636f6d2f3035764a474b332e706e67" width="250" align="right" hspace="10"> -->
+ Task management app I'm working on with @muhammadarifftaha and @IlhamIslahuddin
+ 
+ [Link to the repository >>>](https://github.com/Elisa-Iskandar/tasker-app)
 </p>
 <br>
