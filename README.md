@@ -53,8 +53,7 @@
 ## Logic Gate Trace Tables question generator and solver
 
 <p>
- <img src="https://i.imgur.com/zY2epU4.png" width="250" align="right" hspace="10">
- <img align="right" src = "https://github.com/Elisa-Iskandar/blob/main/gears-5908_512.gif" width="250" align="right" hspace="10"/>
+ <img align="right" src = "logic gate.png" width="250" height="115" align="right" hspace="10"/>
  This was a capstone project in year 12 built to help A-level students studying computer science revise logic gate trace table questions.
  
  [Link to the repository >>>](https://github.com/Elisa-Iskandar/Logic-Gate-Trace-Tables-question-generator-and-solver/tree/main)
