@@ -61,7 +61,7 @@
 
 ## Rock Paper Scissors
 <p>
- <img src="https://i.imgur.com/OUFUpNb.jpeg" width="250" align="right" hspace="10">
+ <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/rockpaperscissors.gif" style = "width:50%; height:auto;">
  A JavaScript project built whilst following the Odin Project.
  
  [Link to the repository >>>](https://github.com/Elisa-Iskandar/Rock-Paper-Scissors)
