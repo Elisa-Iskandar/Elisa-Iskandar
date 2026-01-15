@@ -48,7 +48,7 @@
 # Coding Projects
 ## Tetris AI
 <p>
- <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/tetris.gif" style = "width:50%; height:auto;">
+ <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/tetris.gif" style = "width:60%; height:auto;">
  A Python AI that plays Tetris using board evaluation heuristics, lookahead strategies, and smart piece placement. It explores techniques like hole counting, well detection, and scoring functions to make optimal moves.
  
   [Link to the repository >>>](https://github.com/Elisa-Iskandar/Tetris-AI)
@@ -58,7 +58,9 @@
 ## pH Control and Monitoring System
 <p>
  <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/IMG_2124.jpeg" style = "width:12%; height:auto;">
- pH control and monitoring system, that uses bang-bang control with hysteresis to maintain the set pH. Actual circuit image ->
+ pH control and monitoring system, that uses bang-bang control with hysteresis to maintain the set pH. 
+  
+  Actual circuit image ->
  
   [Link to the repository >>>](https://github.com/Elisa-Iskandar/pH-Control-and-Monitoring-System)
 </p>
@@ -66,7 +68,7 @@
 
 ## Robot Navigation & Collection Simulator
 <p>
- <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/robot dog.gif" style = "width:50%; height:auto;">
+ <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/robot dog.gif" style = "width:70%; height:auto;">
  A robot simulator with autonomous navigation, obstacle avoidance, and marker collection in a randomised grid with real-time graphical visualisation and an efficient exploration algorithm prioritising least-visited cells.
  
   [Link to the repository >>>](https://github.com/Elisa-Iskandar/Find-the-marker)
@@ -94,7 +96,6 @@
 
 ## Python Challenges
 <p>
- <img src="https://camo.githubusercontent.com/5ac5f7e31394888e43113bffb5420b63b54132cfe7cd49f33bcab5b5265c67d9/68747470733a2f2f692e696d6775722e636f6d2f3035764a474b332e706e67" width="250" align="right" hspace="10">
  Python challenges I do from time to time..
  
  [Link to the repository >>>](https://github.com/Elisa-Iskandar/pythonchallenges)
