@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Elisa!</h1>
-
-<div align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisa-iskandar&title=Commits,Experience,Repositories,Followers,PullRequest" alt="elisa-iskandar" /></a></div>
+<h1 align="center">Hi, I'm Elisa</h1>
 
 ### 🔭 I’m currently working on [Tasker App](https://github.com/Elisa-Iskandar/tasker-app-public/tree/main/tasker-app)
 
-### 🌱 I’m currently learning **A-Level Further Maths, Maths, Physics and Computer Science!**
+### 📄 Here's my CV:
+
+![Oops, if you're seeing this, something went wrong with my CV :(](ElisaCV(image).png)
+[pdf version](ElisaCV.pdf)
 
 ### 📫 My contacts: 
 ###
 <a href="iselisa978@gmail.com"></a><p>Gmail: iselisa978@gmail.com</p>
-
-### 📄 Know about my experiences 
-###
-<a href="https://www.canva.com/design/DAGPaqP67lY/Ao1JRogyQLdLPZiAkWT87w/view?utm_content=DAGPaqP67lY&utm_campaign=designshare&utm_medium=link&utm_source=editor"></a><p>CV: [Link to Canva](https://www.canva.com/design/DAGPaqP67lY/Ao1JRogyQLdLPZiAkWT87w/view?utm_content=DAGPaqP67lY&utm_campaign=designshare&utm_medium=link&utm_source=editor)</p> 
 
 ### 🌟 Languages I've used:
 ###
