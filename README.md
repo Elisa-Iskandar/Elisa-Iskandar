@@ -51,7 +51,7 @@
  <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/tetris.gif" style = "width:60%; height:auto;">
  A Python AI that plays Tetris using board evaluation heuristics, lookahead strategies, and smart piece placement. It explores techniques like hole counting, well detection, and scoring functions to make optimal moves.
  
-  [Link to the repository >>>](https://github.com/Elisa-Iskandar/Tetris-AI)
+  [Link to the gist >>>](https://gist.github.com/Elisa-Iskandar/fe4ce2c4afa8de50bfb87f008d7d2943)
 </p>
 <br>
 
@@ -62,7 +62,7 @@
   
   Actual circuit image ->
  
-  [Link to the repository >>>](https://github.com/Elisa-Iskandar/pH-Control-and-Monitoring-System)
+  [Link to the gist >>>](https://gist.github.com/Elisa-Iskandar/8743939a6c0474f13323445913908135)
 </p>
 <br>
 
@@ -71,7 +71,7 @@
  <img align="right" src="https://github.com/Elisa-Iskandar/Elisa-Iskandar/blob/main/robot dog.gif" style = "width:70%; height:auto;">
  A robot simulator with autonomous navigation, obstacle avoidance, and marker collection in a randomised grid with real-time graphical visualisation and an efficient exploration algorithm prioritising least-visited cells.
  
-  [Link to the repository >>>](https://github.com/Elisa-Iskandar/Find-the-marker)
+  [Link to the gist >>>](https://gist.github.com/Elisa-Iskandar/a92d3ace753a3641b3c3889a3a11ddea)
 </p>
 <br>
 
