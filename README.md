@@ -2,11 +2,6 @@
 
 ### 🔭 I’m currently working on [Tasker App](https://github.com/Elisa-Iskandar/tasker-app-public/tree/main/tasker-app)
 
-### 📄 Here's my CV:
-
-![Oops, if you're seeing this, something went wrong with my CV :(](ElisaCV(image).png)
-[pdf version](ElisaCV.pdf)
-
 ### 📫 My contacts: 
 ###
 <a href="iselisa978@gmail.com"></a><p>Gmail: iselisa978@gmail.com</p>
